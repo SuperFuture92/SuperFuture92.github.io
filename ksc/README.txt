@@ -1,30 +1,36 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+TITLE: 
+Roxy - Bootstrap 4 template built by GetTemplates.co
+
+AUTHOR:
+DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
+
+Websites: https://gettemplates.co https://freehtml5.co/
 
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+CREDITS:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Bootstrap
+http://getbootstrap.com/
 
-(* = not included)
+jQuery
+http://jquery.com/
 
-AJ
-aj@lkn.io | @ajlkn
+OwlCarousel
+https://owlcarousel2.github.io/OwlCarousel2/
 
+Isotope
+https://isotope.metafizzy.co
 
-Credits:
+Select2
+https://select2.org
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Stellar
+http://markdalgleish.com/projects/stellar.js/
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Lightcase
+https://cornel.bopp-art.com/lightcase/
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Demo Images:
+http://unsplash.com
+
